@@ -1,0 +1,4 @@
+error code
+run time loging
+customerId should be generated automatically
+When multiple customer profile Id generated how will they work
